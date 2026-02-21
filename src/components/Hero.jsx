@@ -23,7 +23,7 @@ const Hero = () => {
         className="absolute top-0 left-0 w-full h-full object-cover"
       >
         <source
-          src='furniture-video.mp4'
+          src='https://www.pexels.com/download/video/7578540/'
           type="video/mp4"
         />
         Your browser does not support the video tag.
