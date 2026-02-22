@@ -23,7 +23,7 @@ const products = [
     category: "Dining",
     price: "₹41,000",
     image:
-      "https://images.unsplash.com/photo-1505693416388-ac5ce068fe85?q=80&w=2070&auto=format&fit=crop",
+      "https://images.pexels.com/photos/3935321/pexels-photo-3935321.jpeg",
   },
   {
     id: 4,
@@ -31,7 +31,7 @@ const products = [
     category: "Bedroom",
     price: "₹67,000",
     image:
-      "https://images.unsplash.com/photo-1505691938895-1758d7feb511?q=80&w=1974&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1505693416388-ac5ce068fe85?q=80&w=2070&auto=format&fit=crop",
   },
   {
     id: 5,
@@ -39,7 +39,7 @@ const products = [
     category: "Office",
     price: "₹29,900",
     image:
-      "https://images.unsplash.com/photo-1493666438817-866a91353ca9?q=80&w=2070&auto=format&fit=crop",
+      "https://sc04.alicdn.com/kf/Hcae6c2f37a6546f8a625d8c98d0e5b95H.jpg",
   },
   {
     id: 6,
